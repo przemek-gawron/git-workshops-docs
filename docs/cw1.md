@@ -1,8 +1,8 @@
 ---
-sidebar_position: 6
+sidebar_position: 10
 ---
 
-# 📝 Ćwiczenie 1 - Utworzenie nowego repozytorium
+# 📝 Ćwiczenie 1 - Nowe repozytorium
 
 utworzyć nowe repozytorium na github i zainicjalizować nowe repozytorium lokalne<br/>
 dodać remote do repozytorium lokalnego<br/>

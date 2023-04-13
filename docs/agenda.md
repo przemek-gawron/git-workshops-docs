@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Agenda
+# 🗓️ Agenda
 
 #### :books: 1. **Wstęp teoretyczny** 
 - co to jest git / github :thinking:

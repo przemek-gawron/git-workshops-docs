@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Podstawowe pojęcia
+# 📚 Podstawowe pojęcia
 
 **Branch** to gałąź – czyli taka odnoga naszego projektu, utworzona w danym czasie. Coś takiego jak kopia – może żyć swoim życiem i w każdej chwili może być dołączona do głównej gałęzi. W końcu miałeś już do czynienia w Gicie z jedną gałęzią – a tą gałęzią jest właśnie master czyli główna gałąź repozytorium.
 

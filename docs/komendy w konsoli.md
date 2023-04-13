@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Komendy w konsoli
+# ⌨ Komendy w konsoli
 
 Wewnątrz konsoli będziemy uzywać komendy ```cd``` (change directory) <br/> ```cd ..``` -> przeniesie nas do katalogu wyzej<br/> ```cd katalog``` -> przeniesie nas do folderu katalog
 
