@@ -12,4 +12,4 @@ Branche mozemy mergować na dwa sposoby:
 1. Za pomocą komendy ```git merge nazwa_gałęzi``` która pozwala scalić zmiany z innej gałęzi na tą na, której jesteśmy
 2. Poprzez github otwierając pull-request i klikając przycisk merge 
 
-
+<!-- ![Ilustration](../static/img/merge/pull_requests.png) -->
