@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # 📚 Podstawowe pojęcia
 
-**Branch** to gałąź – czyli taka odnoga naszego projektu, utworzona w danym czasie. Coś takiego jak kopia – może żyć swoim życiem i w każdej chwili może być dołączona do głównej gałęzi. W końcu miałeś już do czynienia w Gicie z jedną gałęzią – a tą gałęzią jest właśnie master czyli główna gałąź repozytorium.
+**Branch** to gałąź – czyli taka odnoga naszego projektu, utworzona w danym czasie. Coś takiego jak kopia – może żyć swoim życiem i w każdej chwili może być dołączona do głównej gałęzi.
 
 **Repozytorium** to katalog, w którym przechowywany jest program. W takim repozytorium uruchomiony jest Git, czyli kontrola wersji. Git monitoruje pojawiające się zmiany i pozwala je zapisywać. GitHub jest serwisem, który pozwala na wgrywanie repozytoriów do internetu i przechowuje je w chmurze.
 

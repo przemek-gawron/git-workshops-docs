@@ -5,7 +5,7 @@ sidebar_position: 1
 # 🗓️ Agenda
 
 #### :books: 1. **Wstęp teoretyczny** 
-- co to jest git / github :thinking:
+- co to jest git / github 🤔
 - jakie problemy rozwiązuje
 - podstawowe pojęcia repozytorium, commit, branch, merge, pull-request
 - zastosowania gita do innych rzeczy niż programowanie
