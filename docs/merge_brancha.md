@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # 🔀 Merge brancha
 
-jak mergować, PR review, approve <br/>
+
 **Merge** oznacza połączenie czyli robimy nowego brancha czyli kopiujemy projekt i dodajemy swoje zmiany (dopisujemy kod) dodając commits, następnie otwieramy pull request czyli zapytanie o wrzucenie tych zmian do głównej gałęzi w aplikacji i jak otrzymamy zatwierdzenie od innych programistów to mergujemy czyli scalamy te zmiany 
 
 
