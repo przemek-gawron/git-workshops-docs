@@ -75,3 +75,8 @@ Jeśli przejdziemy w menu po lewej stronie do "Source Control" w "Merge changes"
 
 Aby rozwiązać konflikt klikamy przycisk "Resolve in Merge Editor"
 ![Ilustration](../static/img/conflict/merge_editor.png)
+
+W tym momencie musimy dokonać wyboru czy chcemy zachować zmiany z brancha `main`, wtedy klikamy "Accept Current" czy zmiany z brancha `conflict` - "Accept Incoming". Mozemy równiez wybrać opcję "Accept Combination", wówczas zostaną dodane zmiany z obydwu branchy
+
+Po rozwiazaniu konfliktów mozemy kliknąć przycisk "Complete Merge" i zacommmitowac zmiany
+![Ilustration](../static/img/conflict/complete_merge.png)
